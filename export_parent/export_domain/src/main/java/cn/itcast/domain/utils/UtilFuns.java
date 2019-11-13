@@ -22,6 +22,7 @@ import java.util.*;
 	public static boolean arrayValid(Object[] objects) {
 		if (objects != null && objects.length > 0) {
 			return true;
+			87897987878978
 		} else {
 			return false;
 		}
