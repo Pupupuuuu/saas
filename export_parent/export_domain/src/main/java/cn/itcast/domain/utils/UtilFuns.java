@@ -22,7 +22,7 @@ import java.util.*;
 	public static boolean arrayValid(Object[] objects) {
 		if (objects != null && objects.length > 0) {
 			SOUT465555555555555555555555555555
-	
+	5465465465
 			return true;
 		} else {
 			return false;
