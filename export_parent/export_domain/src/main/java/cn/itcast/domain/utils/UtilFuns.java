@@ -21,7 +21,7 @@ import java.util.*;
 	/* 验证数组是否为空 */
 	public static boolean arrayValid(Object[] objects) {
 		if (objects != null && objects.length > 0) {
-			SOUT465555555555555555555555555555
+			SOUT465555555555
 	
 			return true;
 			87897987878978
